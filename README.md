@@ -1,7 +1,5 @@
 # first-C-database
-Certainly! Below is a sample README file for the project:
 
----
 
 # Database Management System
 
